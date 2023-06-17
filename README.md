@@ -1,11 +1,11 @@
-About r-vam
-===========
+About r-vam-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-vam-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=VAM
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-vam-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains logic for cell-specific gene set scoring of single cell RNA sequencing data.
 
